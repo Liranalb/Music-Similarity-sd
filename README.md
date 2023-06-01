@@ -12,9 +12,8 @@
 ### Developer and repository master
 #### Liran Alboher
 
-* Acedamic advisor
-  DR. Miriam Allalouf
-  
+### Acedamic advisor
+#### DR. Miriam Allalouf
   
 ## Software Design
 **Architecture**
