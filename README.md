@@ -10,8 +10,7 @@
     * Research portal - Displays research data and graphs.
 
 ### Developer and repository master
-Liran Alboher
-<img src="https://avatars.githubusercontent.com/u/37271751?s=400&u=d916e15b800a9d095464eedc2559eaec98e3639d&v=4" alt="Douglas Crockford" width="100" height="100">
+#### Liran Alboher
 
 * Acedamic advisor
   DR. Miriam Allalouf
